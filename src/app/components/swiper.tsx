@@ -9,7 +9,7 @@ import banner from '../images/banner.jpg';
 import styled from 'styled-components';
 
 const StyledSwiper = styled(ReactSwiper)`
-  width: 350px;
+  width: 300px;
 
   @media only screen and (min-width: 500px) {
     width: 450px;
