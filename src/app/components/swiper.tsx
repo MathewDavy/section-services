@@ -39,8 +39,6 @@ export default function Swiper() {
       className=" m-0 mt-10 md:mt-16 "
       spaceBetween={0}
       slidesPerView={1}
-      onSlideChange={() => console.log('slide change')}
-      onSwiper={(swiper) => console.log(swiper)}
     >
       <SwiperSlide>
         <img src={banner.src} className="h-full w-full object-cover" />

@@ -3,14 +3,6 @@ import tree from '../images/tree.png';
 
 import styled from 'styled-components';
 
-const Gradient = styled.div`
-  width: 100%;
-  height: 120%;
-  position: absolute;
-  top: 0;
-  background-image: linear-gradient(transparent 70%, #1b2f33 80%, transparent);
-`;
-
 const Container = styled.div`
   position: relative;
   z-index: 1;

@@ -3,7 +3,6 @@ import banner from '../app/images/banner.jpg';
 import profile from '../app/images/profile.jpg';
 
 import Nav from '../app/components/nav';
-import styled from 'styled-components';
 import TextBlock from './components/textBlock';
 import Swiper from './components/swiper';
 

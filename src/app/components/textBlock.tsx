@@ -1,17 +1,5 @@
 'use client';
 import { ReactNode } from 'react';
-import banner from '../images/banner.jpg';
-
-import styled from 'styled-components';
-
-const LeftGradient = styled.div`
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  color: transparent;
-  background-image: linear-gradient(to right, white 5%, transparent 20%, transparent 40%);
-`;
 
 export default function TextBlock({
   id,
