@@ -36,7 +36,7 @@ export default function Swiper() {
     <StyledSwiper
       navigation={true}
       modules={[Navigation]}
-      className=" m-0 mt-10 md:mt-16 "
+      className=" m-0 mt-10 md:mt-16"
       spaceBetween={0}
       slidesPerView={1}
     >
